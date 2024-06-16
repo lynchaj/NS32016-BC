@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "NS_32k")(type "KiCad")(uri "${KIPRJMOD}/NS_32k.kicad_sym")(options "")(descr ""))
+  (lib (name "dp8419")(type "KiCad")(uri "${KIPRJMOD}/dp8419.kicad_sym")(options "")(descr ""))
+  (lib (name "mc1488")(type "KiCad")(uri "${KIPRJMOD}/mc1488.kicad_sym")(options "")(descr ""))
+  (lib (name "mc1489")(type "KiCad")(uri "${KIPRJMOD}/mc1489.kicad_sym")(options "")(descr ""))
+  (lib (name "ds1010-50")(type "KiCad")(uri "${KIPRJMOD}/ds1010-50.kicad_sym")(options "")(descr ""))
+  (lib (name "tc514400_zip-20")(type "KiCad")(uri "${KIPRJMOD}/tc514400_zip-20.kicad_sym")(options "")(descr ""))
+)

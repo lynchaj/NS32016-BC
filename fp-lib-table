@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "ATX-PS")(type "KiCad")(uri "C:/Users/Andrew/Desktop/System CD Updates/data/Z80MBC/!future/Z180GDC2/ATX-PS.pretty")(options "")(descr ""))
+  (lib (name "TC514400_ZIP-20")(type "KiCad")(uri "${KIPRJMOD}/TC514400_ZIP-20.pretty")(options "")(descr ""))
+  (lib (name "PGA15x15")(type "KiCad")(uri "${KIPRJMOD}/PGA15x15.pretty")(options "")(descr ""))
+)
